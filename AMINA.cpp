@@ -26,6 +26,7 @@ int main()
 		            break;
 		default : printf("L'operateur est incorrect");
 		            break;
+			printf("veuillez saisir q pour quitter");
 	}
 	return 0;
 }
