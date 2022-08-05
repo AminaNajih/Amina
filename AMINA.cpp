@@ -5,7 +5,7 @@
 int main()
  {
     int A , B ;
-	char op ;
+	char op , q;
 	printf("veuillez saisir la valeur de A : ");
 	scanf("%d",&A);
 	printf("veuillez saisir l'operateur : ");
